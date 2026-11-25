@@ -1,0 +1,200 @@
+[
+  {
+    "id": "std-1",
+    "fullName": "Khadija Alaoui Ismaili",
+    "city": "Meknes",
+    "specialty": "Bilingue - Maths"
+  },
+  {
+    "id": "std-2",
+    "fullName": "Younes Aghray",
+    "city": "Meknes",
+    "specialty": "Bilingue"
+  },
+  {
+    "id": "std-3",
+    "fullName": "Fatima Kebbou",
+    "city": "Meknes",
+    "specialty": "Bilingue - bcg / droit privé"
+  },
+  {
+    "id": "std-4",
+    "fullName": "Samira Tarmidi",
+    "city": "Meknes",
+    "specialty": "Bilingue - sociologie"
+  },
+  {
+    "id": "std-5",
+    "fullName": "Abdelghani Boubekri",
+    "city": "Meknes",
+    "specialty": "Primaire arabe - licence physique"
+  },
+  {
+    "id": "std-6",
+    "fullName": "Naima Aabi",
+    "city": "Meknes",
+    "specialty": "Primaire bilingue - biologie"
+  },
+  {
+    "id": "std-7",
+    "fullName": "Achraf Med Berrada",
+    "city": "Meknes",
+    "specialty": "Prof d'arts collège - licence études fr."
+  },
+  {
+    "id": "std-8",
+    "fullName": "Abouhali Badr",
+    "city": "Meknes",
+    "specialty": "Français secondaire qualifiant - licence études fr."
+  },
+  {
+    "id": "std-9",
+    "fullName": "Achaoui Mouaad",
+    "city": "Meknes",
+    "specialty": "Primaire amazighya - licence géog., amazighya"
+  },
+  {
+    "id": "std-10",
+    "fullName": "Youssef Elmetrouch",
+    "city": "Meknes",
+    "specialty": "Bilingue - économie et gestion"
+  },
+  {
+    "id": "std-11",
+    "fullName": "Amina Gastoune",
+    "city": "Meknes",
+    "specialty": "Français"
+  },
+  {
+    "id": "std-12",
+    "fullName": "Youssef Salle",
+    "city": "Taza",
+    "specialty": "Primaire - études françaises"
+  },
+  {
+    "id": "std-13",
+    "fullName": "Mohamed Ouarad",
+    "city": "Taza",
+    "specialty": "Bilingue - licence biologie, français"
+  },
+  {
+    "id": "std-14",
+    "fullName": "Rachid El Amraouy",
+    "city": "Fès",
+    "specialty": "Primaire - licence géologie"
+  },
+  {
+    "id": "std-15",
+    "fullName": "Imane Tarid",
+    "city": "Fès",
+    "specialty": "Primaire bilingue - lp droit et technique d’assurance"
+  },
+  {
+    "id": "std-16",
+    "fullName": "Hafid Bouakchach",
+    "city": "Midelt",
+    "specialty": "Français - licence physique"
+  },
+  {
+    "id": "std-17",
+    "fullName": "Mohamed Ourrahho",
+    "city": "Midelt",
+    "specialty": "Primaire - licence géographie"
+  },
+  {
+    "id": "std-18",
+    "fullName": "Abdelali Ouhri",
+    "city": "Midelt",
+    "specialty": "Primaire"
+  },
+  {
+    "id": "std-19",
+    "fullName": "Hassan Mansouri",
+    "city": "Boumia",
+    "specialty": "Primaire bilingue - licence chimie"
+  },
+  {
+    "id": "std-20",
+    "fullName": "Assma Joundi",
+    "city": "Boumia",
+    "specialty": "Primaire - licence économie"
+  },
+  {
+    "id": "std-21",
+    "fullName": "Fatima Ezzahra Berki",
+    "city": "Imilchil",
+    "specialty": "Bilingue - licence biotech microbienne"
+  },
+  {
+    "id": "std-22",
+    "fullName": "Lhoussaine Bourbi",
+    "city": "Boulemane",
+    "specialty": "Primaire maths bilingue - licence physique appliquée."
+  },
+  {
+    "id": "std-23",
+    "fullName": "Hicham Boutserfine",
+    "city": "Boulemane",
+    "specialty": "Primaire double - études anglaises"
+  },
+  {
+    "id": "std-24",
+    "fullName": "Ibtissam El Oujjaini",
+    "city": "Taounat",
+    "specialty": "Primaire - licence droit privé"
+  },
+  {
+    "id": "std-25",
+    "fullName": "Monaim Laassire",
+    "city": "Khenifra",
+    "specialty": "Primaire bilingue - licence biologie et santé"
+  },
+  {
+    "id": "std-26",
+    "fullName": "Zineb Essafi",
+    "city": "Khenifra",
+    "specialty": "Primaire - licence géographie"
+  },
+  {
+    "id": "std-27",
+    "fullName": "Mchich Nassira",
+    "city": "El hajeb",
+    "specialty": "Primaire - licence physique"
+  },
+  {
+    "id": "std-28",
+    "fullName": "Azzeddine Lafissi",
+    "city": "Marrakech",
+    "specialty": "Primaire bilingue - licence biologie"
+  },
+  {
+    "id": "std-29",
+    "fullName": "Zakaria Es-safy",
+    "city": "Sidi Slimane",
+    "specialty": "Bilingue - licence agroalimentaire"
+  },
+  {
+    "id": "std-30",
+    "fullName": "Hassan Fadili",
+    "city": "Errachidia tinjdad",
+    "specialty": "Primaire bilingue - licence en grh"
+  },
+  {
+    "id": "std-31",
+    "fullName": "Oumani El Mustapha",
+    "city": "Autre",
+    "specialty": "Primaire - licence chimie"
+  },
+  {
+    "id": "std-32",
+    "fullName": "Khalid Amaati",
+    "city": "Autre",
+    "specialty": "Langue espagnole"
+  },
+  {
+    "id": "std-33",
+    "fullName": "Abderrahmane El Borjaoui",
+    "city": "Autre",
+    "specialty": "Langue française"
+  }
+]

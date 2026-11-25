@@ -1,0 +1,8 @@
+# Temporary raw archive extraction (clean versions are in cours/)
+cours_recus_raw/
+
+# System & Editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
